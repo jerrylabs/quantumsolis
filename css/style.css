@@ -7,3 +7,6 @@
   max-width: 680px;
   padding: 0 15px;
 }
+
+.table td { vertical-align: middle; }
+.bold { font-weight: bold; }
